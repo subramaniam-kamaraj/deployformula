@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/subramaniam-kamaraj.io/Formula_Calculator.git/static/js/main.c7fbc400.chunk.js",
+    "main.js.map": "/subramaniam-kamaraj.io/Formula_Calculator.git/static/js/main.c7fbc400.chunk.js.map",
+    "runtime-main.js": "/subramaniam-kamaraj.io/Formula_Calculator.git/static/js/runtime-main.380ae08d.js",
+    "runtime-main.js.map": "/subramaniam-kamaraj.io/Formula_Calculator.git/static/js/runtime-main.380ae08d.js.map",
+    "static/css/2.833dd627.chunk.css": "/subramaniam-kamaraj.io/Formula_Calculator.git/static/css/2.833dd627.chunk.css",
+    "static/js/2.8b45e27d.chunk.js": "/subramaniam-kamaraj.io/Formula_Calculator.git/static/js/2.8b45e27d.chunk.js",
+    "static/js/2.8b45e27d.chunk.js.map": "/subramaniam-kamaraj.io/Formula_Calculator.git/static/js/2.8b45e27d.chunk.js.map",
+    "index.html": "/subramaniam-kamaraj.io/Formula_Calculator.git/index.html",
+    "precache-manifest.a9faf95f29568d0a145354e3d90e120a.js": "/subramaniam-kamaraj.io/Formula_Calculator.git/precache-manifest.a9faf95f29568d0a145354e3d90e120a.js",
+    "service-worker.js": "/subramaniam-kamaraj.io/Formula_Calculator.git/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/subramaniam-kamaraj.io/Formula_Calculator.git/static/css/2.833dd627.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.380ae08d.js",
+    "static/css/2.833dd627.chunk.css",
+    "static/js/2.8b45e27d.chunk.js",
+    "static/js/main.c7fbc400.chunk.js"
+  ]
+}
